@@ -2,6 +2,6 @@
 title: Vibe Coding
 ---
 
-# Vibe coding: How we quietly opened the gates of the bug factory
+# Vibe coding: How we opened the gates of the bug factory
 
 Text here
